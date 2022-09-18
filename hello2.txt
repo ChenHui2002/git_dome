@@ -1,2 +1,3 @@
 hello2 master test
 hello2 hot-fix2 test
+hello2 pull
